@@ -1,8 +1,3 @@
-# Basketball Today 
-## Injury Updates
-Stephen Curry is injured with only 12 games left, Warriors looking forward to keep the second seat 
-## Player of the day
-Donovan Mitchell leading Utah to defeating the Bulls 
-
-# More Info
-[Click Here](https://www.espn.com/nba/)
+# My First Repository
+## Writting my first Markdown file
+Writing my first readme file using markdown wasn't an easy task at first, but through more familiarization with markdown I'm able to grasp the concept briefly. I learn a few things, like how to make **bold** words, *italic* words, ***the combination of both bold and italic***, how to put links [Click Here] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) you can learn it too if you want. But still, it will take more time for me to fully understand and fluently create a markdown file. 
